@@ -36,11 +36,11 @@ public class AccumulatedParagraphStyle {
     }
 
     public int getAbsoluteIndent() {
-        return mAbsoluteIndent;
+        return 1;
     }
 
     public int getRelativeIndent() {
-        return mRelativeIndent;
+        return 1;
     }
 
     public void setAbsoluteIndent(int absoluteIndent) {
